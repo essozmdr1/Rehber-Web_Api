@@ -1,0 +1,1 @@
+-e "# .NET ve Visual Studio i‡in .gitignore\n\n.vs/\nobj/\nbin/\n*.user\n*.suo\n*.vsidx\n*.vscode/\n*.log\n*.DS_Store\n" 

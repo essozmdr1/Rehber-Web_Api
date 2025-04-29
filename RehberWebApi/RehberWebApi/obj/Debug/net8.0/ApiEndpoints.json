@@ -1,0 +1,107 @@
+[
+  {
+    "ContainingType": "RehberWebApi.Controllers.IletisimBilgilerisController",
+    "Method": "Post",
+    "RelativePath": "api/IletisimBilgileris",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "iletisimBilgileri",
+        "Type": "RehberWebApi.Models.Entities.IletisimBilgileri",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RehberWebApi.Controllers.IletisimBilgilerisController",
+    "Method": "Delete",
+    "RelativePath": "api/IletisimBilgileris/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RehberWebApi.Controllers.RaporController",
+    "Method": "Get",
+    "RelativePath": "api/Rapor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RehberWebApi.Controllers.RehbersController",
+    "Method": "Post",
+    "RelativePath": "api/Rehbers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "rehberDto",
+        "Type": "RehberWebApi.Models.Dtos.RehberDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RehberWebApi.Controllers.RehbersController",
+    "Method": "Get",
+    "RelativePath": "api/Rehbers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RehberWebApi.Controllers.RehbersController",
+    "Method": "Put",
+    "RelativePath": "api/Rehbers/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "rehberDto",
+        "Type": "RehberWebApi.Models.Dtos.RehberDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RehberWebApi.Controllers.RehbersController",
+    "Method": "Delete",
+    "RelativePath": "api/Rehbers/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "uIpB85mPEHnmlqsxNXoXMtVFdazmV6TCfi3gBJT/7bw=",
+  "Source": "RehberWebApi",
+  "BasePath": "_content/RehberWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,6 @@
+@RehberWebApi_HostAddress = http://localhost:5065
+
+GET {{RehberWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
